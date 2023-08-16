@@ -1,0 +1,12 @@
+{
+	"player" : [
+		{
+			"name": "Warrior",
+			"id": "sd"
+		},
+		{
+			"name": "Wizard",
+			"id": "sssa2d"
+		}
+	]
+}
